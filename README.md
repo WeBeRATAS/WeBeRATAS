@@ -3,13 +3,13 @@ Software developer student from Barcelona. Passionate about computing since the 
 
 📫 How to reach me weber.atas@gmail.com
 
-Connect with me:
+### Connect with me:
 
 <a href="https://www.linkedin.com/in/rub%C3%A9n-buitrago-a8671a288" target="_blank">
  <img src="https://github.com/WeBeRATAS/WeBeRATAS/blob/main/405932124-2216b903-37e0-48cd-be81-ac2463e042db.svg" alt="Linkedin" width="40" />
 </a>
 
-Languages and Tools:
+### Languages and Tools:
 C C++ git COBOL linux Visual C DB2 SQL Prestashop
 
 <div style="display: flex; justify-content: space-around;">
@@ -22,6 +22,11 @@ C C++ git COBOL linux Visual C DB2 SQL Prestashop
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL29jXtM1i45RKSZWcInnczUeoBTb7xCGtYhtQDv19t6VbOMHrphkD8w3NKsoE73IVxIo&usqp=CAU" alt="DB2" width="60" />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCsrzE92lx2tUM_84w7ueKrxVD7e6EQQxBbQ&s" alt="Prestashop" width="60" />
 </div>
+
+### 🚀 Proyectos destacados
+- **Mantenimiento de sistemas heredados en COBOL**
+- **Desarrollo de herramientas en C para optimización de procesos**
+- **Configuración y administración de servidores Linux**
 
 
 
