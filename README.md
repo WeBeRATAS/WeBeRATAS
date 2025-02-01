@@ -1,3 +1,7 @@
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg" alt="Nibles width="100" />
+</div>
+
  Hi 👋, I'm Ruben
  
 Software developer student from Barcelona. Passionate about computing since the days of floppy disks, always working with them, assembling, understanding computers, and networks. I trained in vocational training in DB2, COBOL, and later in object-oriented programming languages. My skills since then have primarily been in analysis, curiosity, and enhancing and solving daily work problems. Now, I am resuming my programming experience with C and Linux at the 42 Barcelona programming campus of Fundación Telefónica.
